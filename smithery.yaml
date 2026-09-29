@@ -1,0 +1,6 @@
+name: genpark-mcp-protocol-proxy-router-skill
+version: 1.0.0
+description: Model Context Protocol (MCP) JSON-RPC 2.0 proxy router with capability negotiation and dynamic tool dispatch
+command: python
+args:
+  - mcp_server.py
