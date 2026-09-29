@@ -1,0 +1,20 @@
+{
+  "name": "genpark-mcp-protocol-proxy-router-skill",
+  "version": "1.0.0",
+  "description": "Model Context Protocol (MCP) JSON-RPC 2.0 proxy router with capability negotiation and dynamic tool dispatch",
+  "category": "Service",
+  "dependencies": [],
+  "topics": [
+    "mcp",
+    "model-context-protocol",
+    "json-rpc",
+    "proxy-router",
+    "tool-calling",
+    "agent-infrastructure",
+    "python-standard-library",
+    "agent-skills",
+    "developer-tools",
+    "api-gateway",
+    "claude-desktop"
+  ]
+}
